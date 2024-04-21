@@ -1,4 +1,7 @@
 # 📌 Curso Desenvolvedor FullStack +PraTi
+
+<img src="https://github.com/EmersonPenelli/MaisPraTi-DevFullStack/blob/main/assets/images/MaisPraTi%2BCodifica.JPG">
+
 Este repositório trata-se dos conteúdos do curso de desenvolvimento full-stack promovido por MaisPraTi + Codifica 
 
 <br>
