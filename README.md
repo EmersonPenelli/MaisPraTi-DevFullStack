@@ -43,7 +43,14 @@ O Curso consiste em 9 módulos principais:
     - Váriaveis & Tipos de Dados
     - Fluxo Condicional & Repetição
     - Arrays & Funções
+    - Funções Avançadas e Escopo de Variáveis
+    - Objetos em JavaScript
+    - Projeto Final do Módulo
 
+### Modulo 02: Introdução ao Controle de Versão com Git e Github
+    - Introdução ao Git e Controle de Versão
+    - Introdução ao Github e Colaboração em Projetos
+    
 <br>
 
 > Em desenvolvimento.
