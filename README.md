@@ -50,6 +50,10 @@ O Curso consiste em 9 módulos principais:
 ### Modulo 02: Introdução ao Controle de Versão com Git e Github
     - Introdução ao Git e Controle de Versão
     - Introdução ao Github e Colaboração em Projetos
+
+### Modulo 03: Introdução ao Desenvolvimento Front-end
+    - Estrutura básica de uma página HTML
+    - 
     
 <br>
 
