@@ -53,7 +53,17 @@ O Curso consiste em 9 módulos principais:
 
 ### Modulo 03: Introdução ao Desenvolvimento Front-end
     - Estrutura básica de uma página HTML
-    - 
+    - CSS Básico e Estilização de Elementos
+    - Layout com CSS
+    - Manipulação do DOM com JS
+    - Programação Orientada a Eventos
+    - Desenvolvimento Frontend básico
+    - Trabalhando com Seletores Avançados
+    - Modelos de caixa e elementos flutuantes
+    - Projeto completo com os fundamentos do Frontend
+
+### Modulo 04: Desenvolvimento Frontend com ReactJS
+    ...
     
 <br>
 
