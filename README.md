@@ -63,7 +63,24 @@ O Curso consiste em 9 módulos principais:
     - Projeto completo com os fundamentos do Frontend
 
 ### Modulo 04: Desenvolvimento Frontend com ReactJS
-    ...
+    - Introdução ao ReactJs e configuração do ambiente
+    - Componentes Funcionais e de Classe
+    - Estado e Ciclo de vida dos Componentes
+    - Manipulação de Eventos e Formulários
+    - Componentização Avançada
+    - Roteamento com React Router
+    - Gerenciamento de Estado com Context API
+    - Requisições HTTP com Axios
+    - Estilização com CSS no React
+    - Testes Unitários com Jest e React Testing Library
+    - Gerenciamento de Estado Avançado com Redux
+    - Desenvolvimento de Aplicações CRUD com React e Redux
+
+### Modulo 05: Introdução à Linguagem Java
+
+
+
+    
     
 <br>
 
