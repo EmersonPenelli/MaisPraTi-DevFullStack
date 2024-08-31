@@ -77,10 +77,29 @@ O Curso consiste em 9 módulos principais:
     - Desenvolvimento de Aplicações CRUD com React e Redux
 
 ### Modulo 05: Introdução à Linguagem Java
+    - Introdução à Linguagem de Programação Java e Configuração do Ambiente
+    - Conceitos Básicos de Java: Variáveis e Tipos de Dados
+    - Operadores e Expressões em Java
+    - Estruturas de Controle: Condicional
+    - Estruturas de Controle: Repetição
+    - Arrays e Coleções em Java
+    - Métodos e Funções em Java
+    - Introdução à Programação Orientada a Objetos
+    - Classes e Objetos em Java
+    - Construtores e Sobrecarga em Java
+    - Herança em Java
+    - Polimorfismo em Java
+    - Interfaces em Java
+    - Tratamento de Exceções em Java
+    - Estrutura de Dados: Fila
+    - Estrutura de Dados: Pilha
 
 
-
+### Módulo 6 - Fundamentos de Bancos de Dados Relacionais
     
+
+
+
     
 <br>
 
