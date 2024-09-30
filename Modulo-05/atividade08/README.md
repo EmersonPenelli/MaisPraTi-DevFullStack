@@ -5,7 +5,7 @@
 ## ✏ Para iniciar as atividades basta utilizar os seguintes comandos
 
 - Clonar o repositório
-    <pre><code>git clone https://github.com/EmersonPenelli-DevFullStack/MaisPraTi</code></pre>
+    <pre><code>git clone https://github.com/EmersonPenelli/MaisPraTi-DevFullStack</code></pre>
 
 - Abrir o arquivo main no caminho modulo05/atividade08/src/Main
 
