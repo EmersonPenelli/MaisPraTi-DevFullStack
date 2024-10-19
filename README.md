@@ -96,6 +96,18 @@ O Curso consiste em 9 módulos principais:
 
 
 ### Módulo 6 - Fundamentos de Bancos de Dados Relacionais
+    - Introdução à Bancos de Dados Relacionais e Configuração do MySQL
+    - Modelagem de Dados e Entidades
+    - Criação e Manipulação de Tabelas
+    - Consultas Simples com Select
+    - Restrições de Integridade e Chaves
+    - Consultas Avançadas com Select
+    - Backup e Restauração de Dados
+    - Segurança e Gerenciamento de Usuários
+    - Introdução a Stored Procedures
+    - Introdução a Triggers
+    - Índices e Otimização de Consultas
+    - Introdução a Views
     
 
 
